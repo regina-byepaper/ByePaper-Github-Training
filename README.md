@@ -1,4 +1,4 @@
-# ByePaper-Github-Training
+# *ByePaper-Github-Training*
 ### *Importancia del control de versiones en equipos de desarrollo*.
 
 1. *Control de versiones*: Permite a varios desarrolladores trabajar en el mismo proyecto sin sobreescribir el trabajo del otro.
