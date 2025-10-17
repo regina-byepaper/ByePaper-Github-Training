@@ -1,8 +1,8 @@
 # ByePaper-Github-Training
-- Importancia del control de versiones en equipos de desarrollo.
+### *Importancia del control de versiones en equipos de desarrollo*.
 1. *Control de versiones*: Permite a varios desarrolladores trabajar en el mismo proyecto sin sobreescribir el trabajo del otro.
 
-2. *Historial de cambios*: El control de versiones guarda un registro completo de todos los cambios realizados en el código. Permitiendo rastrear quién hizo los cambios y cuándo. Facilitando el análisis de los problemas y la identificación de las causas raíz.
+2. *Historial de cambios*: El control de versiones guarda un registro completo de todos los cambios realizados en el código. Permitiendo rastrear quién hizo los cambios y cuándo así facilitando el análisis de los problemas y la identificación de las causas raíz.
 
 3. *Gestión de versiones*: Permite etiquetar y organizar versiones específicas del software, asegurando que cada versión esté probada antes de ser deplegada.
 
